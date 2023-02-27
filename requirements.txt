@@ -1,4 +1,0 @@
-scipy
-wavfile
-rir-generator
-bitstring
